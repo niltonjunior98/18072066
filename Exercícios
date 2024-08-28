@@ -8,3 +8,4 @@ int main ()
     scanf("%", &visitantes);
     printf("A quantidade de visitantes no dia de hoje é: %"; visitantes);
     Return(0);
+}
