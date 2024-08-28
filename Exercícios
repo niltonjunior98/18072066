@@ -1,1 +1,10 @@
+#include <stdio.h>
+#include <stdlib.h>
 
+int main ()
+{
+    int visitantes;
+    printf("informe a quantidade de visitantes de hoje: /n");
+    scanf("%", &visitantes);
+    printf("A quantidade de visitantes no dia de hoje é: %"; visitantes);
+    Return(0);
